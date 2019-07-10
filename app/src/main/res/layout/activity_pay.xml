@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activity.PayActivity">
+
+    <TextView
+        android:id="@+id/item_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pay Rs. 11,500 /-"
+        android:textColor="#0B1D58"
+        android:textSize="15dp"
+        android:layout_marginLeft="25dp"
+        android:textStyle="bold"
+        android:layout_marginTop="50dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Canara Bank"
+        android:textColor="#000"
+        android:layout_marginLeft="25dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A/c Name :  SEWAK SOLUTION LIMITED "
+        android:layout_marginTop="0dp"
+        android:textColor="#000"
+        android:layout_marginLeft="25dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A/c No.         0885261005522"
+        android:textColor="#000"
+        android:layout_marginLeft="25dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="IFS Code:     CNRB0000885"
+        android:textColor="#000"
+        android:layout_marginLeft="25dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MICR Code: 560015033"
+        android:textColor="#000"
+        android:layout_marginLeft="25dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Branch :        Koramangangla Layout"
+        android:textColor="#000"
+        android:layout_marginLeft="25dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Details send to"
+        android:textStyle="bold"
+        android:textColorHint="#0B1D58"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="25dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="sewaksolutionlimited@gmail.com"
+        android:textColor="#000"
+        android:layout_marginLeft="25dp"/>
+
+    <TextView
+        android:id="@+id/helpline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HelpLine No- 9308089599"
+        android:textColor="#000"
+
+        android:layout_marginLeft="25dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1800-120-008150(Toll Free)"
+        android:textColor="#000"
+        android:layout_marginLeft="108dp"/>
+
+</LinearLayout>

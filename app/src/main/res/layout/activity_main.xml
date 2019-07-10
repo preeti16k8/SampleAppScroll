@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.MainActivity">
+
+
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="395dp"
+        android:layout_height="wrap_content"
+        android:horizontalSpacing="1dp"
+        android:numColumns="2"
+        android:padding="5dp"
+        android:verticalSpacing="1dp"
+        android:layout_marginBottom="70dp">
+    </GridView>
+
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <Button
+        android:id="@+id/login"
+        android:layout_width="141dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="#0B1D58"
+        android:hint="Login"
+        android:textColorHint="#FAF8F8"
+        />
+
+    <Button
+        android:id="@+id/register"
+        android:layout_width="141dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:layout_toRightOf="@+id/login"
+        android:backgroundTint="#0B1D58"
+        android:hint="Register"
+        android:textColorHint="#FAF8F8"
+        android:layout_marginRight="40dp" />
+</RelativeLayout>
+</RelativeLayout>
+
+
+

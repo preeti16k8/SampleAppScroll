@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">SewakSolution</string>
+
+
+    <string-array name="itemss_class">
+        <item>Select State</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+
+        <item>Chhattisgarh</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+
+        <item>Kerala</item>
+        <item>Madya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+
+        <item>Telagana</item>
+        <item>Tripura</item>
+        <item>Uttaranchal</item>
+        <item>Uttar Pradesh</item>
+
+        <item>West Bengal</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Chandigarh</item>
+        <item>Dadar and Nagar Haveli</item>
+
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Lakshadeep</item>
+        <item>Pondicherry</item>
+
+    </string-array>
+
+    <string-array name="items_div_Jharkhand">
+        <item>Bokaro</item>
+        <item>Chatra</item>
+        <item>Deoghar</item>
+        <item>Dhanbad</item>
+
+        <item>Dumka</item>
+        <item>Garhwa</item>
+        <item>Giridih</item>
+        <item>Godda</item>
+
+        <item>Gumla</item>
+        <item>Hazaribagh</item>
+        <item>Jamtara</item>
+        <item>Khunti</item>
+
+        <item>Kodarma</item>
+        <item>Latehar</item>
+        <item>Lohardaga</item>
+        <item>Pakur</item>
+
+        <item>Palamu</item>
+        <item>Pashchimi Singhbhum</item>
+        <item>Ramgarh</item>
+        <item>Ranchi</item>
+
+        <item>Sahibganj</item>
+        <item>Saraikela-Kharsawan</item>
+        <item>Simdega</item>
+
+
+    </string-array>
+
+    <string-array name="items_div_Bihar">
+        <item>Araria</item>
+
+        <item>Arawal</item>
+        <item>Aurangabad</item>
+        <item>Banka</item>
+        <item>Begusarai</item>
+
+        <item>Bhabhua</item>
+        <item>Bhagalpur</item>
+        <item>Bhojpur</item>
+        <item>Buxar</item>
+
+        <item>Darbhanga</item>
+        <item>East Champaran</item>
+        <item>Gaya</item>
+        <item>Gopolganj</item>
+
+        <item>Jamui</item>
+        <item>Jehanabad</item>
+        <item>Katihar</item>
+        <item>Khagaria</item>
+
+        <item>Kishanganj</item>
+        <item>Lakhisarai</item>
+        <item>Madhepura</item>
+        <item>Madhubani</item>
+
+        <item>Monghyr</item>
+        <item>Muzaffarpur</item>
+        <item>Nalanda</item>
+        <item>Nawada</item>
+
+        <item>Patna</item>
+        <item>Purnea</item>
+        <item>Rohtas</item>
+        <item>Saharsa</item>
+
+        <item>Samastipur</item>
+        <item>Saran</item>
+        <item>Sheikhpura</item>
+        <item>Sheohar</item>
+
+        <item>Sitamarhi</item>
+        <item>Siwan</item>
+        <item>Supaul</item>
+        <item>Vaishali</item>
+        <item>West Champaran</item>
+    </string-array>
+
+
+    <string-array name="items_class">
+        <item>Select User Category</item>
+        <item>Corporate Partner</item>
+        <item>Support Partner</item>
+        <item>eoperater</item>
+
+
+    </string-array>
+    <string name="title_activity_dash_board">DashBoard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
